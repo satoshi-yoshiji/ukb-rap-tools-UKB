@@ -1,6 +1,6 @@
  # GWAS pipeline
  
- I probably made this too complex, but while working these out, several sections rely on a prior section in order to run properly.
+ 	Originally from https://github.com/pjgreer/ukb-rap-tools, which has been detached and modified.
  
  There are 6 seperate parts please see the README in each folder for a full description of each step:
  
